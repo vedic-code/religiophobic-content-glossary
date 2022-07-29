@@ -8,7 +8,6 @@
   ,"context":"GUAMUTRA is cow urine, cow is considered as one of the most holiest living form, every thing connected with cow is also considered holy, the concept is connected with sustainaility, ecology balance,emotional and chemical science, but followed in religious context since thousands of years in Hindusim (Vedic culture)."
   ,"youtube":"https://www.youtube.com/watch?v=Oa-ZxrxaCIE"
   ,"severity":"VERY HIGH"}
-  
 ,{ "word":"RASHTRAPATNI" 
     ,"examples": [
                   {"POST":"Calling President Murmu ji as ‘Rashtrapatni’ is absolutely disgusting and disrespectful by Adhir Ranjan Chaudhary- Does Sonia Gandhi ji endorse?" ,"LINK":"https://twitter.com/Shehzad_Ind/status/1552487050091368448"} 
@@ -16,4 +15,14 @@
     ,"copies":["RASHTRA PATNI","RASHTRA-PATNI"] 
   ,"context":"The word ‘Rashtrapatni’ can be also misinterpreted as 'wife of nation', hence it is considered derogatory for female president of any nation, severity doubles when she is hindu, and this word is purposefully used to mock her religion and ancient language aka Sanskrit."
   ,"severity":"HIGH" }
- ]
+,{ "word":"GOBAR" 
+  ,"examples": [
+                {"POST":"इंडिया गोबर और मूत्र का आविष्कार करेगी जबकि चाइना ने एक नया अविष्कार कर डाला","LINK":"https://twitter.com/Kumarpr27304602/status/1552302418276151298"}
+                ,{"POST":"जाहिल संघी! फ़ैज़ साहब कैसे पहचान पाएँगे आख़िर- पढ़े होते तो दिमाग़ में नफ़रत का गोबर ना भरा होता!! (हाँ अब गौ मूत्र के साथ गोबर के भी गुण गिना दो! )" ,"LINK":"https://twitter.com/ReallySwara/status/1208522215093719040"}
+                ]
+  ,"copies":["गोबर","GOBAR","COW DUNG"]
+  ,"context":"GOBAR is cow dung, cow is considered as one of the most holiest living form, every thing connected with cow is also considered holy, the concept is connected with sustainaility, ecology balance,emotional and chemical science, but followed in religious context since thousands of years in Hindusim (Vedic culture)."
+  ,"youtube":"https://www.youtube.com/watch?v=Oa-ZxrxaCIE"
+  ,"severity":"VERY HIGH"}
+
+]
